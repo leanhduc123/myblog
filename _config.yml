@@ -27,7 +27,7 @@ url: "https://leanhduc123.github.io" # the base hostname & protocol for your sit
 twitter_username: leanhduc123 
 github_username:  leanhduc123
 # Build settings
-theme: minima
+#theme: minima
 plugins:
   - jekyll-feed
 
